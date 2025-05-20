@@ -16,6 +16,8 @@
 ![Logo Figma Landing Page](./assets/img/LandingPage-Validé.png)
   </div>
 
+---
+
 ## Table des matières
 
 - [Introduction](#introduction)
@@ -47,6 +49,8 @@ Le tutoriel est basé sur la vidéo YouTube : [Tutoriel Figma - Landing Page](ht
 - Un ordinateur avec une connexion internet
 - Un navigateur web moderne (Chrome, Firefox, Safari, Edge)
 - Un compte Figma (gratuit ou payant)
+
+---
 
 ## Installation et configuration
 
