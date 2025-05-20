@@ -260,7 +260,4 @@ Comprendre l'interface est essentiel avant de commencer :
 - [Plugins recommandés pour Figma](https://www.figma.com/community/plugins)
 - [Tutoriels vidéo sur la chaîne YouTube de Figma](https://www.youtube.com/c/Figmadesign)
 
-## FAQ
-
-**Q: Figma est-il gratuit ?**
-R: Figma propose une version gratuite avec des fonctionnalités
+---
