@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../assets/icons/LogoFigma-LandingPage-Base.svg" alt="Figma Logo" width="200"/>
+  <img src="./assets/icons/LogoFigma-LandingPage-Base.svg" alt="Figma Logo" width="70"/>
 
 
   # Guide Complet d'Initiation à Figma - Création d'une Landing Page
@@ -13,7 +13,7 @@
 
 
 
-![Logo Figma Landing Page](../FIgma/assets/img/LandingPage-Validé.png)
+![Logo Figma Landing Page](./assets/img/LandingPage-Validé.png)
   </div>
 
 ## Table des matières
