@@ -18,6 +18,11 @@
 
 ---
 
+> ## Introduction 
+> Ce guide d'initiation à Figma vous permettra de maîtriser les bases de cet outil de design puissant pour créer des landing pages professionnelles. En suivant ce tutoriel pas à pas, vous apprendrez à concevoir une landing page complète similaire à celle présentée dans l'image d'exemple "Landing Page avec Figma". Le tutoriel est basé sur la vidéo YouTube : [Tutoriel Figma - Landing Page](https://www.youtube.com/watch?v=3cpjW6WquzU)
+
+---
+
 ## Table des matières
 
 - [Introduction](#introduction)
@@ -38,11 +43,6 @@
 - [Ressources additionnelles](#ressources-additionnelles)
 - [FAQ](#faq)
 
-## Introduction
-
-Ce guide d'initiation à Figma vous permettra de maîtriser les bases de cet outil de design puissant pour créer des landing pages professionnelles. En suivant ce tutoriel pas à pas, vous apprendrez à concevoir une landing page complète similaire à celle présentée dans l'image d'exemple "Base Figma - Landing Page".
-
-Le tutoriel est basé sur la vidéo YouTube : [Tutoriel Figma - Landing Page](https://www.youtube.com/watch?v=3cpjW6WquzU)
 
 ## Prérequis
 
