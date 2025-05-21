@@ -18,11 +18,6 @@
 
 ---
 
-> ## Introduction 
-> Ce guide d'initiation à Figma vous permettra de maîtriser les bases de cet outil de design puissant pour créer des landing pages professionnelles. En suivant ce tutoriel pas à pas, vous apprendrez à concevoir une landing page complète similaire à celle présentée dans l'image d'exemple "Landing Page avec Figma". Le tutoriel est basé sur la vidéo YouTube : [Tutoriel Figma - Landing Page](https://www.youtube.com/watch?v=3cpjW6WquzU)
-
----
-
 ## Table des matières
 
 - [Introduction](#introduction)
@@ -41,34 +36,77 @@
 - [Exportation](#exportation)
 - [Collaboration](#collaboration)
 - [Ressources additionnelles](#ressources-additionnelles)
-- [FAQ](#faq)
-
-
-## Prérequis
-
-- Un ordinateur avec une connexion internet
-- Un navigateur web moderne (Chrome, Firefox, Safari, Edge)
-- Un compte Figma (gratuit ou payant)
 
 ---
 
-## Installation et configuration
+```bash
+📁 Figma
+│── 📄 README.md           
+├── 🖼️ Logo & Illustration
+│   ├── Logo SVG centré
+│   ├── Badges Figma / Design / Prototyping
+│   └── Illustration d’aperçu (landing page validée)
+├── 📝 Introduction
+│   └── Présentation du guide et de ses objectifs (avec lien vers le tutoriel vidéo)
+├── 📑 Table des matières
+│   └── Liens internes vers les sections principales du guide
+├── 🧰 Prérequis
+│   └── Liste du matériel et des comptes nécessaires (ordinateur, navigateur, compte Figma)
+├── ⚙️ Installation et configuration
+│   ├── Création d’un compte Figma
+│   ├── Utilisation via navigateur ou application
+│   └── Création du premier fichier projet
+├── 🖥️ Interface de Figma
+│   └── Description de l’interface utilisateur : outils, calques, propriétés
+├── 🎨 Création d’une Landing Page
+│   ├── 📐 Structure de base
+│   │   ├── Création d’un frame
+│   │   └── Mise en place de la grille de mise en page
+│   ├── 🧭 Design du header
+│   │   ├── Barre de navigation
+│   │   ├── Ajout du logo
+│   │   ├── Menu de navigation
+│   │   └── Bouton de connexion
+│   ├── 🦸 Section héros
+│   │   ├── Arrière-plan
+│   │   ├── Titre principal
+│   │   ├── Sous-titre
+│   │   └── Image principale
+│   ├── 🧾 Sections informatives
+│   │   ├── Cartes de niveau (Bases, Avancé, Expert, Master)
+│   │   └── Contenu de chaque carte (titre, texte, icônes)
+│   ├── 🔐 Formulaire de connexion
+│   │   ├── Panneau / bloc formulaire
+│   │   ├── Titre du formulaire
+│   │   ├── Champs Email & Mot de passe
+│   │   ├── Bouton de connexion
+│   │   └── Lien de récupération
+│   └── 📎 Footer
+│       ├── Zone de fond sombre
+│       ├── Logo à gauche
+│       ├── Liens au centre
+│       └── Réseaux sociaux à droite
+├── 🧩 Composants et styles
+│   └── Création et gestion de styles (couleurs, textes, effets)
+├── 🧪 Prototypage
+│   └── Connexion des frames, interactions, animations
+├── 📤 Exportation
+│   └── Formats disponibles et options d’exportation (PNG, SVG, PDF, code)
+├── 🤝 Collaboration
+│   └── Partage, commentaires, travail en équipe sur Figma
+├── 📚 Ressources additionnelles
+│   └── Liens vers ressources utiles, templates, bibliothèques
+```
 
-1. **Création d'un compte Figma**
-   - Rendez-vous sur [figma.com](https://www.figma.com/)
-   - Cliquez sur "Sign up"
-   - Inscrivez-vous avec votre email ou via Google/Apple
+---
 
-2. **Accès à Figma**
-   - Figma fonctionne directement dans votre navigateur, aucune installation n'est nécessaire
-   - Pour plus de fonctionnalités hors ligne, vous pouvez télécharger l'application de bureau Figma
+</div>
+<p align="center">
+  <a href="Guide-Figma/Introduction.md">Suivant</a>
+</p>
 
-3. **Création d'un nouveau projet**
-   - Cliquez sur le bouton "+" en haut à gauche
-   - Sélectionnez "Design File"
-   - Nommez votre projet "Landing Page"
 
-## Interface de Figma
+<!-- ## Interface de Figma
 
 Comprendre l'interface est essentiel avant de commencer :
 
@@ -258,6 +296,5 @@ Comprendre l'interface est essentiel avant de commencer :
 - [Documentation officielle de Figma](https://help.figma.com/)
 - [Communauté Figma](https://www.figma.com/community)
 - [Plugins recommandés pour Figma](https://www.figma.com/community/plugins)
-- [Tutoriels vidéo sur la chaîne YouTube de Figma](https://www.youtube.com/c/Figmadesign)
+- [Tutoriels vidéo sur la chaîne YouTube de Figma](https://www.youtube.com/c/Figmadesign) -->
 
----
