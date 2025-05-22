@@ -1,0 +1,99 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#FFFFFF"/>
+  
+  <!-- Title Bar -->
+  <rect x="0" y="0" width="800" height="40" fill="#2C2C2C"/>
+  <text x="20" y="25" font-family="Arial, sans-serif" font-size="14" fill="white">Figma 2025 - Design File</text>
+  
+  <!-- User Info -->
+  <text x="780" y="25" font-family="Arial, sans-serif" font-size="12" fill="#CCCCCC" text-anchor="end">@fannysaez</text>
+  
+  <!-- Sidebar -->
+  <rect x="0" y="40" width="200" height="560" fill="#2C2C2C"/>
+  
+  <!-- Pages Section -->
+  <rect x="0" y="40" width="200" height="40" fill="#424242"/>
+  <text x="20" y="65" font-family="Arial, sans-serif" font-size="14" fill="white">Pages</text>
+  
+  <!-- Page List -->
+  <rect x="10" y="90" width="180" height="30" rx="4" fill="#565656"/>
+  <text x="30" y="110" font-family="Arial, sans-serif" font-size="12" fill="white">🏠 Home</text>
+  
+  <rect x="10" y="130" width="180" height="30" rx="4" fill="#2C2C2C"/>
+  <text x="30" y="150" font-family="Arial, sans-serif" font-size="12" fill="#AAAAAA">📱 Mobile Screens</text>
+  
+  <rect x="10" y="170" width="180" height="30" rx="4" fill="#2C2C2C"/>
+  <text x="30" y="190" font-family="Arial, sans-serif" font-size="12" fill="#AAAAAA">🎨 Design System</text>
+  
+  <rect x="10" y="210" width="180" height="30" rx="4" fill="#2C2C2C"/>
+  <text x="30" y="230" font-family="Arial, sans-serif" font-size="12" fill="#AAAAAA">💻 Desktop Views</text>
+  
+  <!-- Add Page Button -->
+  <rect x="10" y="250" width="180" height="30" rx="4" fill="#1E1E1E"/>
+  <text x="100" y="270" font-family="Arial, sans-serif" font-size="12" fill="#1ABCFE" text-anchor="middle">+ Add Page</text>
+  
+  <!-- Main Canvas -->
+  <rect x="200" y="40" width="600" height="560" fill="#1E1E1E"/>
+  
+  <!-- Frame Grid Section -->
+  <rect x="220" y="60" width="560" height="520" rx="6" fill="#2C2C2C"/>
+  
+  <!-- Header for Frame Gallery -->
+  <text x="240" y="90" font-family="Arial, sans-serif" font-size="16" fill="white">Frames in Home Page</text>
+  
+  <!-- Search & Filter Bar -->
+  <rect x="500" y="70" width="260" height="30" rx="15" fill="#424242"/>
+  <text x="520" y="90" font-family="Arial, sans-serif" font-size="12" fill="#999999">Search frames...</text>
+  
+  <!-- Frame Grid -->
+  <!-- Row 1 -->
+  <rect x="240" y="110" width="160" height="120" rx="4" fill="#424242"/>
+  <rect x="250" y="130" width="140" height="80" rx="0" fill="white"/>
+  <text x="320" y="180" font-family="Arial, sans-serif" font-size="12" fill="#333333" text-anchor="middle">Desktop Homepage</text>
+  <text x="320" y="200" font-family="Arial, sans-serif" font-size="10" fill="#666666" text-anchor="middle">1440 × 900</text>
+  
+  <rect x="420" y="110" width="160" height="120" rx="4" fill="#424242"/>
+  <rect x="460" y="130" width="80" height="80" rx="0" fill="white"/>
+  <text x="500" y="180" font-family="Arial, sans-serif" font-size="12" fill="#333333" text-anchor="middle">Tablet Homepage</text>
+  <text x="500" y="200" font-family="Arial, sans-serif" font-size="10" fill="#666666" text-anchor="middle">768 × 1024</text>
+  
+  <rect x="600" y="110" width="160" height="120" rx="4" fill="#424242"/>
+  <rect x="655" y="130" width="50" height="80" rx="0" fill="white"/>
+  <text x="680" y="180" font-family="Arial, sans-serif" font-size="12" fill="#333333" text-anchor="middle">Mobile Homepage</text>
+  <text x="680" y="200" font-family="Arial, sans-serif" font-size="10" fill="#666666" text-anchor="middle">390 × 844</text>
+  
+  <!-- Row 2 -->
+  <rect x="240" y="250" width="160" height="120" rx="4" fill="#424242"/>
+  <rect x="250" y="270" width="140" height="80" rx="0" fill="white"/>
+  <text x="320" y="320" font-family="Arial, sans-serif" font-size="12" fill="#333333" text-anchor="middle">About Page</text>
+  <text x="320" y="340" font-family="Arial, sans-serif" font-size="10" fill="#666666" text-anchor="middle">1440 × 900</text>
+  
+  <rect x="420" y="250" width="160" height="120" rx="4" fill="#424242"/>
+  <rect x="460" y="270" width="80" height="80" rx="0" fill="white"/>
+  <text x="500" y="320" font-family="Arial, sans-serif" font-size="12" fill="#333333" text-anchor="middle">Product Page</text>
+  <text x="500" y="340" font-family="Arial, sans-serif" font-size="10" fill="#666666" text-anchor="middle">1440 × 900</text>
+  
+  <rect x="600" y="250" width="160" height="120" rx="4" fill="#424242"/>
+  <rect x="655" y="270" width="50" height="80" rx="0" fill="white"/>
+  <text x="680" y="320" font-family="Arial, sans-serif" font-size="12" fill="#333333" text-anchor="middle">Contact Form</text>
+  <text x="680" y="340" font-family="Arial, sans-serif" font-size="10" fill="#666666" text-anchor="middle">1440 × 900</text>
+  
+  <!-- Row 3 -->
+  <rect x="240" y="390" width="160" height="120" rx="4" fill="#1ABCFE" opacity="0.1"/>
+  <circle cx="320" cy="450" r="40" fill="white"/>
+  <text x="320" y="455" font-family="Arial, sans-serif" font-size="20" fill="#1ABCFE" font-weight="bold" text-anchor="middle">+</text>
+  <text x="320" y="490" font-family="Arial, sans-serif" font-size="12" fill="#1ABCFE" text-anchor="middle">New Frame</text>
+  
+  <rect x="420" y="390" width="340" height="120" rx="4" fill="#424242"/>
+  <text x="590" y="430" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle">Custom Frame</text>
+  <rect x="440" y="450" width="140" height="30" rx="4" fill="#333333"/>
+  <text x="460" y="470" font-family="Arial, sans-serif" font-size="12" fill="#CCCCCC">Width: 1200</text>
+  <rect x="600" y="450" width="140" height="30" rx="4" fill="#333333"/>
+  <text x="620" y="470" font-family="Arial, sans-serif" font-size="12" fill="#CCCCCC">Height: 800</text>
+  
+  <!-- Status Bar -->
+  <rect x="0" y="580" width="800" height="20" fill="#1A1A1A"/>
+  <text x="10" y="594" font-family="Arial, sans-serif" font-size="10" fill="#999999">Last updated: 2025-05-22 06:43:17 | @fannysaez | Figma 2025</text>
+  <text x="790" y="594" font-family="Arial, sans-serif" font-size="10" fill="#999999" text-anchor="end">v2025.1</text>
+</svg>
