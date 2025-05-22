@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created on 2025-05-22 06:29:36 by @fannysaez -->
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- App Background -->
+  <rect width="1200" height="800" fill="#FFFFFF"/>
+  
+  <!-- Top Bar -->
+  <rect width="1200" height="48" fill="#2C2C2C"/>
+  
+  <!-- Logo -->
+  <g transform="translate(16, 8)">
+    <rect x="0" y="0" width="32" height="32" rx="8" fill="#1ABCFE"/>
+    <rect x="0" y="16" width="16" height="16" rx="8" fill="#0ACF83"/>
+    <rect x="16" y="0" width="16" height="16" rx="8" fill="#FF7262"/>
+    <rect x="16" y="16" width="16" height="16" rx="8" fill="#F24E1E"/>
+    <rect x="0" y="0" width="16" height="16" rx="8" fill="#A259FF"/>
+  </g>
+  
+  <!-- File Name -->
+  <text x="72" y="30" font-family="Inter" font-size="14" font-weight="500" fill="white">Untitled - Figma Design File</text>
+  
+  <!-- Top Menu Items -->
+  <g transform="translate(350, 0)">
+    <text x="0" y="30" font-family="Inter" font-size="13" font-weight="400" fill="#CCCCCC">File</text>
+    <text x="50" y="30" font-family="Inter" font-size="13" font-weight="400" fill="#CCCCCC">Edit</text>
+    <text x="100" y="30" font-family="Inter" font-size="13" font-weight="400" fill="#CCCCCC">View</text>
+    <text x="150" y="30" font-family="Inter" font-size="13" font-weight="400" fill="#CCCCCC">Object</text>
+    <text x="210" y="30" font-family="Inter" font-size="13" font-weight="400" fill="#CCCCCC">Vector</text>
+    <text x="270" y="30" font-family="Inter" font-size="13" font-weight="400" fill="#CCCCCC">Text</text>
+    <text x="310" y="30" font-family="Inter" font-size="13" font-weight="400" fill="#CCCCCC">Arrange</text>
+    <text x="380" y="30" font-family="Inter" font-size="13" font-weight="400" fill="#CCCCCC">Plugins</text>
+    <text x="450" y="30" font-family="Inter" font-size="13" font-weight="400" fill="#CCCCCC">Prototyping</text>
+    <text x="540" y="30" font-family="Inter" font-size="13" font-weight="400" fill="#CCCCCC">Help</text>
+  </g>
+  
+  <!-- User Profile -->
+  <g transform="translate(1120, 8)">
+    <circle cx="16" cy="16" r="16" fill="#0ACF83"/>
+    <text x="16" y="21" font-family="Inter" font-size="12" font-weight="600" fill="white" text-anchor="middle">FS</text>
+  </g>
+  
+  <!-- Left Sidebar -->
+  <g>
+    <rect x="0" y="48" width="64" height="752" fill="#2C2C2C"/>
+    
+    <!-- Tool Icons -->
+    <g transform="translate(16, 64)">
+      <!-- Move Tool -->
+      <circle cx="16" cy="16" r="16" fill="#3D3D3D"/>
+      <path d="M10 16L16 10L22 16L16 22L10 16Z" fill="#FFFFFF"/>
+      
+      <!-- Frame Tool -->
+      <circle cx="16" cy="64" r="16" fill="#3D3D3D"/>
+      <rect x="11" y="59" width="10" height="10" stroke="#FFFFFF" stroke-width="1.5" fill="none"/>
+      
+      <!-- Rectangle Tool -->
+      <circle cx="16" cy="112" r="16" fill="#3D3D3D"/>
+      <rect x="9" y="105" width="14" height="14" fill="#FFFFFF"/>
+      
+      <!-- Pen Tool -->
+      <circle cx="16" cy="160" r="16" fill="#3D3D3D"/>
+      <path d="M10 20L16 10L22 16L12 22L10 20Z" fill="#FFFFFF"/>
+      
+      <!-- Text Tool -->
+      <circle cx="16" cy="208" r="16" fill="#3D3D3D"/>
+      <text x="16" y="213" font-family="Inter" font-size="14" font-weight="700" fill="white" text-anchor="middle">T</text>
+      
+      <!-- Hand Tool -->
+      <circle cx="16" cy="256" r="16" fill="#3D3D3D"/>
+      <path d="M14 14v-4h-4 M14 14h4v-4" stroke="#FFFFFF" stroke-width="1.5" fill="none"/>
+      
+      <!-- Comment Tool -->
+      <circle cx="16" cy="304" r="16" fill="#3D3D3D"/>
+      <path d="M10 16C10 13.2386 12.2386 11 15 11H17C19.7614 11 22 13.2386 22 16V18C22 20.7614 19.7614 23 17 23H11L10 16Z" fill="#FFFFFF"/>
+    </g>
+  </g>
+  
+  <!-- Layers Panel -->
+  <g>
+    <rect x="64" y="48" width="240" height="752" fill="#F7F7F7"/>
+    <text x="84" y="78" font-family="Inter" font-size="13" font-weight="600" fill="#2C2C2C">LAYERS</text>
+    
+    <!-- Layer Items -->
+    <g transform="translate(74, 96)">
+      <!-- Layer 1 -->
+      <rect x="0" y="0" width="210" height="32" rx="4" fill="#E6E6E6"/>
+      <text x="30" y="20" font-family="Inter" font-size="12" fill="#2C2C2C">Frame 1</text>
+      <rect x="10" y="10" width="12" height="12" stroke="#2C2C2C" stroke-width="1.5" fill="none"/>
+      
+      <!-- Layer 2 -->
+      <g transform="translate(0, 40)">
+        <rect x="0" y="0" width="210" height="32" rx="4" fill="transparent"/>
+        <text x="30" y="20" font-family="Inter" font-size="12" fill="#2C2C2C">Rectangle</text>
+        <rect x="10" y="10" width="12" height="12" fill="#1ABCFE"/>
+      </g>
+      
+      <!-- Layer 3 -->
+      <g transform="translate(0, 80)">
+        <rect x="0" y="0" width="210" height="32" rx="4" fill="transparent"/>
+        <text x="30" y="20" font-family="Inter" font-size="12" fill="#2C2C2C">Text Layer</text>
+        <text x="16" y="20" font-family="Inter" font-size="12" font-weight="700" fill="#2C2C2C">T</text>
+      </g>
+      
+      <!-- Layer 4 -->
+      <g transform="translate(0, 120)">
+        <rect x="0" y="0" width="210" height="32" rx="4" fill="transparent"/>
+        <text x="30" y="20" font-family="Inter" font-size="12" fill="#2C2C2C">Component</text>
+        <rect x="10" y="10" width="12" height="12" stroke="#0ACF83" stroke-width="1.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+  
+  <!-- Main Canvas -->
+  <rect x="304" y="48" width="896" height="752" fill="#E5E5E5"/>
+  
+  <!-- Canvas Content -->
+  <g transform="translate(550, 350)">
+    <!-- Example Frame -->
+    <rect x="0" y="0" width="400" height="300" rx="8" fill="white" stroke="#E0E0E0"/>
+    
+    <!-- Example Shape -->
+    <rect x="40" y="40" width="120" height="120" fill="#1ABCFE" rx="4"/>
+    
+    <!-- Example Text -->
+    <text x="40" y="200" font-family="Inter" font-size="24" font-weight="600" fill="#2C2C2C">Figma 2025</text>
+    <text x="40" y="230" font-family="Inter" font-size="14" font-weight="400" fill="#666666">Interface design</text>
+    
+    <!-- Button -->
+    <rect x="40" y="250" width="120" height="32" rx="16" fill="#0ACF83"/>
+    <text x="100" y="270" font-family="Inter" font-size="12" font-weight="500" fill="white" text-anchor="middle">Get Started</text>
+  </g>
+  
+  <!-- Properties Panel -->
+  <g transform="translate(896, 48)">
+    <rect width="304" height="752" fill="#F7F7F7"/>
+    <text x="20" y="30" font-family="Inter" font-size="13" font-weight="600" fill="#2C2C2C">DESIGN</text>
+    
+    <!-- Properties Sections -->
+    <g transform="translate(20, 50)">
+      <!-- Fill Section -->
+      <text x="0" y="0" font-family="Inter" font-size="11" font-weight="500" fill="#666666">FILL</text>
+      <rect x="0" y="10" width="264" height="32" rx="4" fill="#E6E6E6"/>
+      <rect x="10" y="20" width="12" height="12" fill="#1ABCFE"/>
+      <text x="30" y="30" font-family="Inter" font-size="12" fill="#2C2C2C">#1ABCFE</text>
+      
+      <!-- Stroke Section -->
+      <g transform="translate(0, 60)">
+        <text x="0" y="0" font-family="Inter" font-size="11" font-weight="500" fill="#666666">STROKE</text>
+        <rect x="0" y="10" width="264" height="32" rx="4" fill="#E6E6E6"/>
+        <rect x="10" y="20" width="12" height="12" stroke="#2C2C2C" stroke-width="1.5" fill="none"/>
+        <text x="30" y="30" font-family="Inter" font-size="12" fill="#2C2C2C">1px</text>
+      </g>
+      
+      <!-- Effects Section -->
+      <g transform="translate(0, 120)">
+        <text x="0" y="0" font-family="Inter" font-size="11" font-weight="500" fill="#666666">EFFECTS</text>
+        <rect x="0" y="10" width="264" height="32" rx="4" fill="#E6E6E6"/>
+        <text x="10" y="30" font-family="Inter" font-size="12" fill="#2C2C2C">Drop Shadow</text>
+      </g>
+      
+      <!-- Layout Section -->
+      <g transform="translate(0, 180)">
+        <text x="0" y="0" font-family="Inter" font-size="11" font-weight="500" fill="#666666">LAYOUT</text>
+        <rect x="0" y="10" width="264" height="100" rx="4" fill="#E6E6E6"/>
+        <text x="10" y="30" font-family="Inter" font-size="12" fill="#2C2C2C">X: 40</text>
+        <text x="10" y="50" font-family="Inter" font-size="12" fill="#2C2C2C">Y: 40</text>
+        <text x="10" y="70" font-family="Inter" font-size="12" fill="#2C2C2C">W: 120</text>
+        <text x="10" y="90" font-family="Inter" font-size="12" fill="#2C2C2C">H: 120</text>
+      </g>
+    </g>
+  </g>
+  
+  <!-- Status Bar -->
+  <g transform="translate(304, 780)">
+    <rect width="896" height="20" fill="#E0E0E0"/>
+    <text x="20" y="15" font-family="Inter" font-size="11" fill="#666666">100% • 1200 x 800 • @fannysaez • 2025-05-22 06:29:36</text>
+  </g>
+  
+  <!-- AI Assistant Panel (New in 2025) -->
+  <g transform="translate(20, 670)">
+    <rect width="24" height="24" rx="12" fill="#A259FF"/>
+    <text x="12" y="17" font-family="Inter" font-size="12" font-weight="bold" fill="white" text-anchor="middle">AI</text>
+  </g>
+  
+  <!-- Version Tag -->
+  <g transform="translate(1100, 15)">
+    <rect width="60" height="18" rx="9" fill="#A259FF" fill-opacity="0.1"/>
+    <text x="30" y="13" font-family="Inter" font-size="10" font-weight="500" fill="#A259FF" text-anchor="middle">v2025.2</text>
+  </g>
+</svg>
