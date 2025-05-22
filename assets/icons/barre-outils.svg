@@ -1,0 +1,6 @@
+<svg width="300" height="80" xmlns="http://www.w3.org/2000/svg">
+  <rect x="10" y="10" width="30" height="30" fill="#4A90E2" />
+  <text x="50" y="30" font-size="14" fill="#000">Outil Rectangle</text>
+  <circle cx="25" cy="60" r="10" fill="#7ED321" />
+  <text x="50" y="65" font-size="14" fill="#000">Outil Cercle</text>
+</svg>
