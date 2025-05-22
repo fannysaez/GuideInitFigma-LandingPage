@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created on 2025-05-22 06:32:26 by @fannysaez -->
+<svg width="500" height="700" viewBox="0 0 500 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Title -->
+  <text x="20" y="30" font-family="Inter" font-size="18" font-weight="600" fill="#333333">Panneau de Calques Figma 2025</text>
+  
+  <!-- Layers Panel Container -->
+  <rect x="20" y="60" width="460" height="600" rx="8" fill="#2C2C2C"/>
+  
+  <!-- Header -->
+  <rect x="20" y="60" width="460" height="40" rx="8 8 0 0" fill="#424242"/>
+  <text x="40" y="85" font-family="Inter" font-size="14" font-weight="500" fill="white">Layers</text>
+  
+  <!-- Search Bar -->
+  <rect x="40" y="110" width="420" height="32" rx="16" fill="#424242"/>
+  <text x="60" y="130" font-family="Inter" font-size="12" fill="#999999">Search</text>
+  <circle cx="430" cy="126" r="6" fill="#999999"/>
+  <path d="M428 126L432 126M430 124L430 128" stroke="#2C2C2C" stroke-width="1.5"/>
+  
+  <!-- Pages -->
+  <rect x="40" y="160" width="420" height="30" rx="4" fill="#565656"/>
+  <text x="60" y="180" font-family="Inter" font-size="12" font-weight="500" fill="white">Page 1</text>
+  
+  <!-- Frames -->
+  <rect x="60" y="200" width="400" height="30" rx="4" fill="#424242"/>
+  <text x="80" y="220" font-family="Inter" font-size="12" fill="white">🖼️ Frame 1</text>
+  <text x="420" y="220" font-family="Inter" font-size="12" fill="#999999" text-anchor="end">⌘1</text>
+  
+  <!-- Components -->
+  <rect x="80" y="240" width="380" height="30" rx="4" fill="#2C2C2C"/>
+  <text x="100" y="260" font-family="Inter" font-size="12" fill="#1ABCFE">🧩 Header</text>
+  <text x="400" y="260" font-family="Inter" font-size="12" fill="#999999" text-anchor="end">⌘2</text>
+  
+  <rect x="80" y="280" width="380" height="30" rx="4" fill="#2C2C2C"/>
+  <text x="100" y="300" font-family="Inter" font-size="12" fill="#0ACF83">🧩 Button</text>
+  <text x="400" y="300" font-family="Inter" font-size="12" fill="#999999" text-anchor="end">⌘3</text>
+  
+  <!-- Groups -->
+  <rect x="80" y="320" width="380" height="30" rx="4" fill="#2C2C2C"/>
+  <text x="100" y="340" font-family="Inter" font-size="12" fill="white">📂 Content Group</text>
+  <text x="400" y="340" font-family="Inter" font-size="12" fill="#999999" text-anchor="end">⌘4</text>
+  
+  <!-- Inner Elements -->
+  <rect x="100" y="360" width="360" height="30" rx="4" fill="#2C2C2C"/>
+  <text x="120" y="380" font-family="Inter" font-size="12" fill="white">🔠 Title</text>
+  
+  <rect x="100" y="400" width="360" height="30" rx="4" fill="#2C2C2C"/>
+  <text x="120" y="420" font-family="Inter" font-size="12" fill="white">🔠 Paragraph</text>
+  
+  <rect x="100" y="440" width="360" height="30" rx="4" fill="#2C2C2C"/>
+  <text x="120" y="460" font-family="Inter" font-size="12" fill="white">◼️ Image</text>
+  
+  <!-- Variants Group -->
+  <rect x="80" y="480" width="380" height="30" rx="4" fill="#2C2C2C"/>
+  <text x="100" y="500" font-family="Inter" font-size="12" fill="#A259FF">🎭 Button Variants</text>
+  <text x="400" y="500" font-family="Inter" font-size="12" fill="#999999" text-anchor="end">⌘5</text>
+  
+  <!-- Variant Components -->
+  <rect x="100" y="520" width="360" height="30" rx="4" fill="#2C2C2C"/>
+  <text x="120" y="540" font-family="Inter" font-size="12" fill="#A259FF">◼️ Primary</text>
+  
+  <rect x="100" y="560" width="360" height="30" rx="4" fill="#2C2C2C"/>
+  <text x="120" y="580" font-family="Inter" font-size="12" fill="#A259FF">◼️ Secondary</text>
+  
+  <rect x="100" y="600" width="360" height="30" rx="4" fill="#2C2C2C"/>
+  <text x="120" y="620" font-family="Inter" font-size="12" fill="#A259FF">◼️ Ghost</text>
+  
+  <!-- Legend -->
+  <rect x="20" y="670" width="460" height="30" rx="8" fill="#F5F5F5"/>
+  <text x="40" y="690" font-family="Inter" font-size="11" fill="#666666">Created: 2025-05-22 06:32:26 | @fannysaez | Figma 2025 Layers Panel</text>
+</svg>
