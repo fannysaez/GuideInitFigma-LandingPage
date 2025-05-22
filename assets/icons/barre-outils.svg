@@ -1,6 +1,64 @@
-<svg width="300" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect x="10" y="10" width="30" height="30" fill="#4A90E2" />
-  <text x="50" y="30" font-size="14" fill="#000">Outil Rectangle</text>
-  <circle cx="25" cy="60" r="10" fill="#7ED321" />
-  <text x="50" y="65" font-size="14" fill="#000">Outil Cercle</text>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created on 2025-05-22 06:32:26 by @fannysaez -->
+<svg width="500" height="700" viewBox="0 0 500 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Title -->
+  <text x="20" y="30" font-family="Inter" font-size="18" font-weight="600" fill="#333333">Barre d'outils latérale Figma 2025</text>
+  
+  <!-- Main Toolbar Container -->
+  <rect x="20" y="60" width="80" height="600" rx="8" fill="#2C2C2C"/>
+  
+  <!-- Tools -->
+  <!-- Selection Tool -->
+  <circle cx="60" cy="100" r="15" fill="#1ABCFE"/>
+  <text x="120" y="105" font-family="Inter" font-size="14" fill="#333333">Outil de sélection (V)</text>
+  
+  <!-- Scale Tool -->
+  <rect x="45" y="140" width="30" height="30" rx="4" fill="white"/>
+  <text x="120" y="155" font-family="Inter" font-size="14" fill="#333333">Outil d'échelle (K)</text>
+  
+  <!-- Frame Tool -->
+  <rect x="45" y="190" width="30" height="30" rx="4" stroke="white" stroke-width="2" fill="none"/>
+  <text x="120" y="205" font-family="Inter" font-size="14" fill="#333333">Outil de frame (F)</text>
+  
+  <!-- Shape Tools -->
+  <rect x="45" y="240" width="30" height="30" rx="4" fill="#0ACF83"/>
+  <text x="120" y="255" font-family="Inter" font-size="14" fill="#333333">Outil de rectangle (R)</text>
+  
+  <circle cx="60" cy="290" r="15" fill="#A259FF"/>
+  <text x="120" y="295" font-family="Inter" font-size="14" fill="#333333">Outil d'ellipse (O)</text>
+  
+  <!-- Pen Tool -->
+  <path d="M45 340L60 325L75 340L60 355L45 340Z" fill="#FF7262"/>
+  <text x="120" y="345" font-family="Inter" font-size="14" fill="#333333">Outil de plume (P)</text>
+  
+  <!-- Text Tool -->
+  <text x="60" y="395" font-family="Inter" font-size="18" font-weight="bold" fill="white" text-anchor="middle">T</text>
+  <text x="120" y="395" font-family="Inter" font-size="14" fill="#333333">Outil de texte (T)</text>
+  
+  <!-- Hand Tool -->
+  <path d="M50 430H70M45 440H75M55 450H65" stroke="white" stroke-width="2"/>
+  <text x="120" y="445" font-family="Inter" font-size="14" fill="#333333">Outil main (H)</text>
+  
+  <!-- Comment Tool -->
+  <circle cx="60" cy="480" r="15" stroke="white" stroke-width="2" fill="none"/>
+  <path d="M55 480L65 480M55 475L65 475M55 485L65 485" stroke="white" stroke-width="1.5"/>
+  <text x="120" y="485" font-family="Inter" font-size="14" fill="#333333">Outil commentaire (C)</text>
+  
+  <!-- AI Assistant -->
+  <circle cx="60" cy="530" r="15" fill="#F24E1E"/>
+  <text x="60" y="535" font-family="Inter" font-size="12" font-weight="bold" fill="white" text-anchor="middle">AI</text>
+  <text x="120" y="535" font-family="Inter" font-size="14" fill="#333333">Assistant AI (⌘/)</text>
+  
+  <!-- Slice Tool -->
+  <path d="M48 570L72 570L72 590L48 590L48 570Z" stroke="white" stroke-width="2" fill="none"/>
+  <path d="M48 570L72 590" stroke="white" stroke-width="2"/>
+  <text x="120" y="585" font-family="Inter" font-size="14" fill="#333333">Outil de découpe (S)</text>
+  
+  <!-- Advanced Tools -->
+  <path d="M50 625L70 625M55 620L65 630" stroke="#1ABCFE" stroke-width="2"/>
+  <text x="120" y="630" font-family="Inter" font-size="14" fill="#333333">Outils avancés</text>
+  
+  <!-- Legend -->
+  <rect x="20" y="680" width="460" height="40" rx="8" fill="#F5F5F5"/>
+  <text x="35" y="705" font-family="Inter" font-size="12" fill="#666666">Created: 2025-05-22 06:32:26 | @fannysaez | Figma 2025 Tool Palette</text>
 </svg>
