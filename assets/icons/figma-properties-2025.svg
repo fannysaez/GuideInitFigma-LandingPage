@@ -1,0 +1,99 @@
+<svg width="500" height="700" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="500" height="700" fill="#FFFFFF"/>
+  
+  <!-- Title -->
+  <text x="20" y="30" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333333">Propriétés Figma 2025</text>
+  <text x="20" y="50" font-family="Arial, sans-serif" font-size="12" fill="#666666">Permet d'ajuster les propriétés de l'élément sélectionné</text>
+  
+  <!-- Properties Panel Container -->
+  <rect x="20" y="70" width="460" height="600" rx="8" fill="#2C2C2C"/>
+  
+  <!-- Header -->
+  <rect x="20" y="70" width="460" height="40" rx="8 8 0 0" fill="#424242"/>
+  <text x="40" y="95" font-family="Arial, sans-serif" font-size="14" fill="white">Design</text>
+  
+  <!-- Tab Buttons -->
+  <rect x="40" y="120" width="100" height="30" rx="4" fill="#565656"/>
+  <text x="90" y="140" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle">Design</text>
+  
+  <rect x="150" y="120" width="100" height="30" rx="4" fill="#2C2C2C"/>
+  <text x="200" y="140" font-family="Arial, sans-serif" font-size="12" fill="#CCCCCC" text-anchor="middle">Prototype</text>
+  
+  <rect x="260" y="120" width="100" height="30" rx="4" fill="#2C2C2C"/>
+  <text x="310" y="140" font-family="Arial, sans-serif" font-size="12" fill="#CCCCCC" text-anchor="middle">AI Tools</text>
+  
+  <!-- Selected Element Info -->
+  <rect x="40" y="160" width="420" height="40" rx="4" fill="#3A3A3A"/>
+  <circle cx="60" cy="180" r="10" fill="#1ABCFE"/>
+  <text x="80" y="185" font-family="Arial, sans-serif" font-size="14" fill="white">Button</text>
+  <text x="440" y="185" font-family="Arial, sans-serif" font-size="12" fill="#999999" text-anchor="end">Frame 1 / Button</text>
+  
+  <!-- Layer Properties -->
+  <text x="40" y="220" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">LAYER</text>
+  
+  <rect x="40" y="230" width="420" height="1" fill="#555555"/>
+  
+  <!-- Position Properties -->
+  <text x="40" y="260" font-family="Arial, sans-serif" font-size="11" fill="#CCCCCC">X</text>
+  <rect x="60" y="245" width="80" height="24" rx="4" fill="#424242"/>
+  <text x="70" y="260" font-family="Arial, sans-serif" font-size="11" fill="white">240</text>
+  
+  <text x="150" y="260" font-family="Arial, sans-serif" font-size="11" fill="#CCCCCC">Y</text>
+  <rect x="170" y="245" width="80" height="24" rx="4" fill="#424242"/>
+  <text x="180" y="260" font-family="Arial, sans-serif" font-size="11" fill="white">320</text>
+  
+  <text x="260" y="260" font-family="Arial, sans-serif" font-size="11" fill="#CCCCCC">W</text>
+  <rect x="280" y="245" width="80" height="24" rx="4" fill="#424242"/>
+  <text x="290" y="260" font-family="Arial, sans-serif" font-size="11" fill="white">200</text>
+  
+  <text x="370" y="260" font-family="Arial, sans-serif" font-size="11" fill="#CCCCCC">H</text>
+  <rect x="390" y="245" width="70" height="24" rx="4" fill="#424242"/>
+  <text x="400" y="260" font-family="Arial, sans-serif" font-size="11" fill="white">56</text>
+  
+  <!-- Constraints -->
+  <text x="40" y="295" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">CONSTRAINTS</text>
+  
+  <rect x="40" y="310" width="420" height="60" rx="4" fill="#424242"/>
+  <rect x="50" y="320" width="100" height="40" rx="4" fill="#565656"/>
+  <text x="100" y="343" font-family="Arial, sans-serif" font-size="11" fill="white" text-anchor="middle">Left & Right</text>
+  
+  <rect x="160" y="320" width="100" height="40" rx="4" fill="#565656"/>
+  <text x="210" y="343" font-family="Arial, sans-serif" font-size="11" fill="white" text-anchor="middle">Top</text>
+  
+  <!-- Auto Layout -->
+  <text x="40" y="395" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">AUTO LAYOUT</text>
+  
+  <rect x="40" y="410" width="420" height="40" rx="4" fill="#424242"/>
+  <text x="60" y="435" font-family="Arial, sans-serif" font-size="11" fill="white">Horizontal</text>
+  <text x="150" y="435" font-family="Arial, sans-serif" font-size="11" fill="white">Padding: 16</text>
+  <text x="250" y="435" font-family="Arial, sans-serif" font-size="11" fill="white">Gap: 8</text>
+  <text x="330" y="435" font-family="Arial, sans-serif" font-size="11" fill="white">Align: Center</text>
+  
+  <!-- Fill Properties -->
+  <text x="40" y="475" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">FILL</text>
+  
+  <rect x="40" y="490" width="420" height="40" rx="4" fill="#424242"/>
+  <rect x="50" y="500" width="20" height="20" rx="10" fill="#1ABCFE"/>
+  <text x="80" y="513" font-family="Arial, sans-serif" font-size="11" fill="white">#1ABCFE</text>
+  <text x="170" y="513" font-family="Arial, sans-serif" font-size="11" fill="white">100%</text>
+  <text x="440" y="513" font-family="Arial, sans-serif" font-size="11" fill="white" text-anchor="end">Solid</text>
+  
+  <!-- Stroke Properties -->
+  <text x="40" y="555" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">STROKE</text>
+  
+  <rect x="40" y="570" width="420" height="40" rx="4" fill="#424242"/>
+  <rect x="50" y="580" width="20" height="20" rx="10" fill="none" stroke="white"/>
+  <text x="80" y="593" font-family="Arial, sans-serif" font-size="11" fill="#CCCCCC">None</text>
+  
+  <!-- Effects Properties -->
+  <text x="40" y="635" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">EFFECTS</text>
+  
+  <rect x="40" y="650" width="420" height="40" rx="4" fill="#424242"/>
+  <text x="60" y="673" font-family="Arial, sans-serif" font-size="11" fill="white">Drop shadow</text>
+  <text x="440" y="673" font-family="Arial, sans-serif" font-size="11" fill="white" text-anchor="end">+</text>
+  
+  <!-- Timestamp and Creator -->
+  <rect x="20" y="680" width="460" height="30" rx="4" fill="#1A1A1A"/>
+  <text x="30" y="698" font-family="Arial, sans-serif" font-size="10" fill="#999999">2025-05-22 06:55:47 | @fannysaez | Figma 2025 Properties Panel</text>
+</svg>
