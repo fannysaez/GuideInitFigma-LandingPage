@@ -45,3 +45,8 @@ Comprendre l'interface est essentiel avant de commencer :
 </div>
 
 ---
+
+</div>
+<p align="center">
+  <a href="./LandingPage.md">Suivant</a>
+</p>
