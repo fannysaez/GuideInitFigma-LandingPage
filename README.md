@@ -20,22 +20,22 @@
 
 ## Table des matières
 
-- [Introduction](#introduction)
-- [Prérequis](#prérequis)
-- [Installation et configuration](#installation-et-configuration)
-- [Interface de Figma](#interface-de-figma)
-- [Création d'une Landing Page](#création-dune-landing-page)
-  - [Structure de base](#structure-de-base)
-  - [Design du header](#design-du-header)
-  - [Section héros](#section-héros)
-  - [Sections informatives](#sections-informatives)
-  - [Formulaire de connexion](#formulaire-de-connexion)
-  - [Footer](#footer)
-- [Composants et styles](#composants-et-styles)
-- [Prototypage](#prototypage)
-- [Exportation](#exportation)
-- [Collaboration](#collaboration)
-- [Ressources additionnelles](#ressources-additionnelles)
+- [Introduction](./Guide-Figma/Introduction.md)
+- [Prérequis](./Guide-Figma/Introduction.md)
+- [Installation et configuration](./Guide-Figma/Introduction.md)
+- [Interface de Figma](./Guide-Figma/Interface.md)
+- [Création d'une Landing Page](#./Guide-Figma/LandingPage.md)
+  - [Structure de base](#./Guide-Figma/LandingPage.md)
+  - [Design du header](#./Guide-Figma/LandingPage.md)
+  - [Section héros](#./Guide-Figma/LandingPage.md)
+  - [Sections informatives](#./Guide-Figma/LandingPage.md)
+  - [Formulaire de connexion](#./Guide-Figma/LandingPage.md)
+  - [Footer](#./Guide-Figma/LandingPage.md)
+- [Composants et styles](#./Guide-Figma/Composants.md)
+- [Prototypage](#./Guide-Figma/Prototypage.md)
+- [Exportation](#./Guide-Figma/Exportation.md)
+- [Collaboration](#./Guide-Figma/Collaboration.md)
+- [Ressources additionnelles](#./Guide-Figma/Ressources.md)
 
 ---
 
