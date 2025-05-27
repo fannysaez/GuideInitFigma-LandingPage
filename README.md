@@ -100,7 +100,6 @@
 
 ---
 
-</div>
 <p align="center">
   <a href="Guide-Figma/Introduction.md">Suivant</a>
 </p>
