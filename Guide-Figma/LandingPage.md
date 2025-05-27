@@ -124,3 +124,10 @@
    - Ajoutez des icônes de réseaux sociaux à droite
 
 ---
+
+
+<p align="center">
+<a href="./Interface.md">Précédent</a> 
+   |
+  <a href="./Composants.md">Suivant</a>
+</p>
