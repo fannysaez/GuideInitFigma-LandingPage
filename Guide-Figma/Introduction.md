@@ -32,5 +32,7 @@
 
 </div>
 <p align="center">
+<a href="../README.md">Précédent</a> 
+   |
   <a href="./Interface.md">Suivant</a>
 </p>
